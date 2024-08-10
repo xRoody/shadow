@@ -1,4 +1,4 @@
-FROM debian:sid
+FROM debian
 
 ARG V2RAY_VERSION=v1.3.1
 
